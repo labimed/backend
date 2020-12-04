@@ -1,0 +1,43 @@
+/* -----------------------------------------------
+/* Author: Labimed Analises Clinicas - Setor de TI;
+/* Website: www.labimed.com.br;
+/* Version: v2.12.3
+/* ----------------------------------------------- */
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+@media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+		font-size: 3.5rem;
+	}
+}
+
+@media print {
+	body * {
+		visibility: hidden;
+		background: transparent !important;
+	}
+	.mt-5,
+	.lead,
+	.accordion * {
+		visibility: visible;
+	}
+	.accordion,
+	.mt-5,
+	.lead,
+	{
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+	.collapse {
+		display: block !important;
+		height: auto !important;
+	}
+}
