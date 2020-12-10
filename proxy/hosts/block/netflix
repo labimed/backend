@@ -1,0 +1,43 @@
+# Title: Netflix Hosts
+#
+# This hosts file is a merged collection of netflix hosts
+#
+# Date: 10 December 2020 11:21:07 (GMT-3)
+# Extensions added to this file: netflix
+# Number of unique domains: 80,716
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
+# Project home page: https://github.com/labimed/
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Start Labimed
+
+#=====================================
+# Hosts contributed by Labimed
+# https://www.labimed.com.br/
+
+0.0.0.0 netflix.com
+0.0.0.0 netflix.com.br
+0.0.0.0 nflxvideo.net
+0.0.0.0 nflxso.net
+0.0.0.0 assets.nflxext.com
+0.0.0.0 nflxext.com
+0.0.0.0 nflximg.com
+0.0.0.0 nflximg.net
+0.0.0.0 netflix
