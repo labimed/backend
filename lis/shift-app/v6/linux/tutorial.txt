@@ -1,0 +1,13 @@
+Tutorial instalar ShiftApp no linux
+
+-> Instalar o JAVA
+$ sudo apt-get install default-jre
+
+-> Instalar biblioteca do Certutil
+$ sudo apt-get install libnss3-tools
+
+-> Baixar o ShiftApp
+$ wget https://backend.labimed.com.br/lis/shift-app/v6/linux/ShiftAppInstall.tar.gz
+
+-> Descompactar e, após, executar o script
+$ ./ShiftAppInstall
